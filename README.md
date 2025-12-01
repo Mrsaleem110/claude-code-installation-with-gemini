@@ -14,6 +14,7 @@
 # notepad $HOME/.claude-code-router/config.json
 # step 5 jab note pad open ho to yeah paste kren remember api key mein ja k google api key dalen or save kr len.
 # 
+```
 {
   "LOG": true,
   "LOG_LEVEL": "info",
@@ -42,6 +43,7 @@
     "longContextThreshold": 60000
   }
 }
+```
 # step 6
 # yeah commad terminal mein likh kr is mein bhi apni api key paste kren yad rahen yeah step k bad powershell close krdena.
 # [System.Environment]::SetEnvironmentVariable('GOOGLE_API_KEY', 'YOUR_KEY_HERE', 'User')
